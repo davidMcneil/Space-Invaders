@@ -1,4 +1,4 @@
-![Alt text](/Space-Invaders/blob/master/%20screenshot.jpg) ![Alt text](/Space-Invaders/blob/master/%20screenshot.jpg)
+![Alt text](/Space-Invaders/blob/master/screenshot.jpg) ![Alt text](/Space-Invaders/blob/master/screenshot.jpg)
 
 # Setup
 
