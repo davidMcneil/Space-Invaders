@@ -1,4 +1,4 @@
-![Alt text](Space-Invaders/raw/master/screenshot.jpg) ![Alt text](Space-Invaders/raw/master/screenshot.jpg)
+![Alt text](Space-Invaders/raw/master/screenshot.jpg)
 
 # Setup
 
@@ -11,3 +11,5 @@
 # Controls
 - Move: Left and right arrow keys
 - Shoot: space bar
+
+![Alt text](Space-Invaders/raw/master/screenshot2.jpg)
