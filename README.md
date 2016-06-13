@@ -1,4 +1,4 @@
-![Alt text](Space-Invaders/raw/master/screenshot.jpg)
+![Alt text](screenshot.jpg)
 
 # Setup
 
@@ -12,4 +12,4 @@
 - Move: Left and right arrow keys
 - Shoot: space bar
 
-![Alt text](Space-Invaders/raw/master/screenshot2.jpg)
+![Alt text](screenshot2.jpg)
